@@ -1,0 +1,12 @@
+#contactme{
+    /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+
+    /* Set a specific height */
+    background-color: rgba(19, 89, 194, 0.801);
+    height: 200px;
+}
+
+/* Place text in the middle of the image */
+li{
+list-style:none;
+}
